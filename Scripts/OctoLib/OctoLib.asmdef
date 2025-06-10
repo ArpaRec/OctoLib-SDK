@@ -1,5 +1,5 @@
 {
-    "name": "OctoLib"
+    "name": "OctoLib",
     "rootNamespace": "",
     "references": [
         "UltEvents"
