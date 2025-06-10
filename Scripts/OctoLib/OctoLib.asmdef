@@ -1,0 +1,16 @@
+{
+    "name": "OctoLib"
+    "rootNamespace": "",
+    "references": [
+        "UltEvents"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

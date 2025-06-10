@@ -1,6 +1,6 @@
 {
     "name": "com.arparec.sdk.octolib",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "displayName": "OctoLib SDK",
     "description": "A useful modding library for BONELAB.",
     "dependencies": { },
